@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eddy-Emmanuel
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Pythin
+- 🌱 I’m currently learning Pythin6
 - 💞️ I’m looking to collaborate on real life projects
 - 📫 How to reach me eddyblizzy14@gmail.com
 
