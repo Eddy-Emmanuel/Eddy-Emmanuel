@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Pythin
 - 💞️ I’m looking to collaborate on real life projects
-- 📫 How to reach me ...
+- 📫 How to reach me eddyblizzy14@gmail.com
 
 <!---
 Eddy-Emmanuel/Eddy-Emmanuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
