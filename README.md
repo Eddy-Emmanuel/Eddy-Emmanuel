@@ -42,16 +42,14 @@
 
 | Project | Description |
 |---|---|
-| **[BLIP-2 Multimodal Model](#)** | Complete BLIP-2 pipeline from scratch — frozen ViT encoder, custom Q-Former with cross-attention, Stage-1 (ITC/ITM/ITG) and Stage-2 LLM projection |
-| **[LLaVA Multimodal Model](#)** | LLaVA architecture from scratch with SigLIP encoder, MLP projector, and Qwen3-0.6B (4-bit QLoRA), trained on Flickr30k |
-| **[GPT-2 From Scratch](#)** | Full GPT-2 style language model in PyTorch — multi-head attention, feedforward layers, positional embeddings, autoregressive generation |
-| **[Vision Transformer (ViT)](#)** | ViT built from scratch for MNIST — PatchEmbedding, LayerNorm, GELU, Multi-Head Attention, and Transformer Encoder implemented manually |
-| **[CLIP Replication](#)** | Contrastive Language-Image Pretraining from scratch, combining ViT with a 1.5B-parameter LLM via 4-bit QLoRA |
-| **[NaijaAgroChat](#)** | Multilingual RAG chatbot for Nigerian farmers (Yoruba, Hausa, Igbo, Pidgin, English) — FAISS retrieval, reranking, LangGraph ReAct agent, Spitch TTS/STT |
-| **[Qwen3 Fine-Tuning (SFT + GRPO)](#)** | Fine-tuned Qwen3 with Unsloth + VLLM on instructional math datasets using GRPO for preference alignment |
-| **[Instruction-Following Chatbot](#)** | SFT + DPO pipeline to align chatbot responses with user instructions and preferences |
-
-*Update the links above with your actual GitHub repo URLs.*
+| **[BLIP-2 Multimodal Model](https://github.com/Eddy-Emmanuel/Blip2-Transformer-from-Scratch)** | Complete BLIP-2 pipeline from scratch — frozen ViT encoder, custom Q-Former with cross-attention, Stage-1 (ITC/ITM/ITG) and Stage-2 LLM projection |
+| **[LLaVA Multimodal Model](https://github.com/Eddy-Emmanuel/Llava-Modelling-From-Scratch)** | LLaVA architecture from scratch with SigLIP encoder, MLP projector, and Qwen3-0.6B (4-bit QLoRA), trained on Flickr30k |
+| **[GPT-2 From Scratch](https://github.com/Eddy-Emmanuel/Gpt2-Model-From-Scratch)** | Full GPT-2 style language model in PyTorch — multi-head attention, feedforward layers, positional embeddings, autoregressive generation |
+| **[Vision Transformer (ViT)](https://github.com/Eddy-Emmanuel/Replicating-ViT-transformer-on-MNIST-dataset)** | ViT built from scratch for MNIST — PatchEmbedding, LayerNorm, GELU, Multi-Head Attention, and Transformer Encoder implemented manually |
+| **[CLIP Replication](https://github.com/Eddy-Emmanuel/Clip-Transformer-Paper-Replication-variant)** | Contrastive Language-Image Pretraining from scratch, combining ViT with a 1.5B-parameter LLM via 4-bit QLoRA |
+| **[NaijaAgroChat](https://github.com/Eddy-Emmanuel/Naija-Agro-Chat)** | Multilingual RAG chatbot for Nigerian farmers (Yoruba, Hausa, Igbo, Pidgin, English) — FAISS retrieval, reranking, LangGraph ReAct agent, Spitch TTS/STT |
+| **[Qwen3 Fine-Tuning (SFT + GRPO)](https://github.com/Eddy-Emmanuel/LLM-FINE-TUNING/blob/main/qwen3-finetuning-grpo.ipynb)** | Fine-tuned Qwen3 with Unsloth + VLLM on instructional math datasets using GRPO for preference alignment |
+| **[Instruction-Following Chatbot](https://github.com/Eddy-Emmanuel/LLM-FINE-TUNING/blob/main/instruction-following-chatbot-with-sft-dpo-using.ipynb)** | SFT + DPO pipeline to align chatbot responses with user instructions and preferences |
 
 ---
 
